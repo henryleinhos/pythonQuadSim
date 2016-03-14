@@ -1,4 +1,4 @@
-#! /usr/local/bin/python
+#! /usr/bin/python
 # openGL imports
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
